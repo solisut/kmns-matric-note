@@ -19,4 +19,4 @@ const CONFIG = {
     最后 再祝你生日快乐啦 做大人一年了 不要在这么容易被骗`,
     btnAccept: '好啦 生日快乐 我爱你😘',
     messLink: 'https://www.nissanusa.com/vehicles/sports-cars/gt-r.html'
-};
+}
