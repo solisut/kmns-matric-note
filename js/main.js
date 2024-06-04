@@ -108,7 +108,7 @@ $(document).ready(function() {
             width: 900,
             padding: '3em',
             html: "<input type='text' class='form-control' id='txtReason' onmousemove='textGenerate()' placeholder='Whyyy'>",
-            background: '#fff url('img/iput-bg.jpg')',
+            background: '#fff url(\"img/iput-bg.jpg\")',
             backdrop: `
                   rgba(0,0,123,0.4)
                   url("img/giphy2.gif")
@@ -134,4 +134,3 @@ $(document).ready(function() {
         });
     });
 });
-
