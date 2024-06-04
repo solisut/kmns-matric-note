@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "生日快乐",
+    titleWeb: "Tiêu đề web",
     introTitle: '生日快乐啊',
     introDesc: `恭喜这位小朋友 又老了一岁
     but 没有关系 脑没有老就可以了
