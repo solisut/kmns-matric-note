@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `恭喜这位小朋友 又老了一岁
     but 没有关系 脑没有老就可以了
     哈哈哈哈哈哈`,
-    btnIntro: '^^哈哈哈^^',
+    btnIntro: '哈哈哈',
     title: '那么问题来了 请问你没有完成你的自律🥰',
     desc: '老实回答',
     btnYes: '没有，我每天睡到早上11点',
