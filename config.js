@@ -6,7 +6,7 @@ const CONFIG = {
     哈哈哈哈哈哈`,
     btnIntro: '^^哈哈哈^^',
     title: '那么问题来了 请问你没有完成你的自律🥰',
-    desc: '老实回答 ：D ',
+    desc: '老实回答',
     btnYes: '没有，我每天睡到早上11点',
     btnNo: '有，肯定有',
     question: 'OKAY  第二个问题 请问伟杰有什么优点',
